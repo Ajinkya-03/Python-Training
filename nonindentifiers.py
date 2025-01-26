@@ -6,3 +6,8 @@
 _name = 123
 
 *name = "Hello world"
+
+print(123var)
+print(_name)
+print(*name)
+
