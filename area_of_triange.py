@@ -7,6 +7,5 @@ area = 0.5 * breadth * height
 
 #answer
 print("Area of triangle is : ", area)
-
 #input -> b=10, h=20
 #output -> 100

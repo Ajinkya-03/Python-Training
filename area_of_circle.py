@@ -5,7 +5,7 @@ radius = int(input("Enter the radius of circle : "))
 area   = 3.14 * radius * radius
 
 #answer
-print("Area of circle is", area)  
+print("Area of circle is : ", area)  
 
 # takin r = 15
 #output --> Area of circle is 706.5
