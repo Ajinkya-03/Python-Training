@@ -1,0 +1,13 @@
+# Taking input from the user
+num = int(input("Enter a number to check if it is prime: "))
+
+# Prime number check logic
+if num > 1:
+    for i in range(2, int(num ** 0.5) + 1):
+        if num % i == 0:
+            print("Not prime")
+            break
+    else:
+        print("Prime")
+else:
+    print("Not prime")
