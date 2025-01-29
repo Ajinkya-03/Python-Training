@@ -8,3 +8,4 @@ if age >= 18:
 #not eligible
 else:
     print("You are not eligible to vote")
+

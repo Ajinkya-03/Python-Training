@@ -11,3 +11,4 @@ while i <= n:
     i += 1
 
 print("The sum of the first" , n , "natural numbers is : ",sum_n)  #result
+

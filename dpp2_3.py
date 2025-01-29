@@ -5,3 +5,4 @@ if (check == "a" ,"e" , "i" , "o" , "u" , "A" , "E" , "I" , "O" , "U"):
 
 else:
     print("Consonant")  
+    

@@ -19,3 +19,4 @@ elif(marks < 40):
 
 else:
     print("Invalid input of marks")
+    
